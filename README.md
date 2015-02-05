@@ -1,0 +1,2 @@
+# rudim
+Rudmentary Rails Concepts
